@@ -17,6 +17,11 @@ This is a React project that demonstrates how to consume a GraphQL API using Apo
 - Apollo Client: A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
 - GraphQL: A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
 
+## API Used
+- This application uses the PokéAPI's GraphQL API. The API provides a vast amount of data about the Pokémon universe, including information about different Pokémon, their abilities, types, and much more.
+
+- The specific endpoint used in this application is: https://beta.pokeapi.co/graphql/v1beta. This is a beta version of the API, so please be aware that there may be some changes and adjustments in the future.
+
 ## Setup and Deployment
 
 1. Clone the repository: `git clone https://github.com/danielsantiago1230/react-pokemon-graphql.git`
