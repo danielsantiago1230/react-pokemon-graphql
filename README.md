@@ -19,7 +19,7 @@ This is a React project that demonstrates how to consume a GraphQL API using Apo
 
 ## Setup and Deployment
 
-1. Clone the repository: `git clone https://github.com/your-username/pokemon-graphql.git`
+1. Clone the repository: `git clone https://github.com/danielsantiago1230/react-pokemon-graphql.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Deploy the application on Vercel for free hosting and easy deployment.
