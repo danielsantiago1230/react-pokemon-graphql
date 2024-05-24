@@ -1,10 +1,16 @@
 import React from 'react';
+import Pokemon from './components/Pokemon';
 
 function App() {
   return (
-    <h1>
-      Hello world
-    </h1>
+    <div>
+    <header>
+      <h1>Pokémon GraphQL API</h1>
+    </header>
+    <main>
+      <Pokemon />
+    </main>
+  </div>
   );
 }
 
