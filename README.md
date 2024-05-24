@@ -14,6 +14,7 @@ This is a React project that demonstrates how to consume a GraphQL API using Apo
 
 - React: A JavaScript library for building user interfaces.
 - TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+- Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
 - Apollo Client: A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
 - GraphQL: A query language for your API, and a server-side runtime for executing queries by using a type system you define for your data.
 
